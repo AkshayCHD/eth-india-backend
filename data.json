@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "user1",
+            "publicKey": "0xe196C91ABFb4DFba4c57704C530Be52C3c3ddD9B",
+            "level": 1
+        },
+        {
+            "id": 2,
+            "name": "user2",
+            "publicKey": "0xB63Cf430fe1Ca8d80dff1F714B71fD688e8F5F6d",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "user3",
+            "publicKey": "0xb360ffa8E8a35f99bB3392F6F79d9b1116ddF8D8",
+            "level": 1
+        }
+    ]
+}
